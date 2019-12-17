@@ -51,6 +51,7 @@ componentDidMount(){
     }
 
 }
+// git add . // git commit -m "updated" // git push //
 
 export default PostList;
 
